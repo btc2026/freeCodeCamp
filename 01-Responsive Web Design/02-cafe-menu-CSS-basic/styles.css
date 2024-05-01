@@ -6,3 +6,7 @@ h1, h2, p{
 body{
     background-color: burlywood ;
 }
+
+#menu{
+    width: 300px;
+}
