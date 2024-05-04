@@ -24,3 +24,10 @@ h1 {
 .blue {
   background-color: hsl(240, 100%, 50%);
 }
+
+.sleeve{
+  width: 110px;
+  height: 25px;
+  background-color: white;
+  opacity: 0.5;
+}
